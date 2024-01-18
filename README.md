@@ -60,11 +60,9 @@ To explore and replicate the project, follow these steps:
 
   **Fact Table**
      
-    ![DDL Fact table](![FACT_BOOK_SALES](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/44fb4bf2-5d7a-42c0-8bbb-eade8ffd62f3)
+    ![FACT_BOOK_SALES](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/44fb4bf2-5d7a-42c0-8bbb-eade8ffd62f3)
 
 
-
-* Detailed instructions for the ETL phase can be found in the [ETL folder](/ETL).
 
   **Customer Dimension**
    
@@ -87,7 +85,6 @@ To explore and replicate the project, follow these steps:
 
 
 ## Analysis Phase
-To explore the analysis phase, refer to the [Analysis folder](/Analysis).
 
 This project harnesses the power of SQL Server Analysis Services (SSAS) for advanced data modeling and analysis. In particular, we've employed the Tabular mode of OLAP (Online Analytical Processing) to create efficient data models that cater to our analytical needs.
 
