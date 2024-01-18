@@ -43,19 +43,19 @@ To explore and replicate the project, follow these steps:
     
   * Book Dimension
     
-    ![DDL Book Dim](![BOOK DIM](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/3feaf48a-d3d9-4f75-92e6-b69a6f6b6d80))
+   ![BOOK DIM](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/3feaf48a-d3d9-4f75-92e6-b69a6f6b6d80))
 
 
     
    * Order Dimension
      
-    ![DDL Shipping Dim](![ORDER_DIM](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/75a9741a-2df0-4c11-9813-cb2761fd3b9b))
+    ![ORDER_DIM](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/75a9741a-2df0-4c11-9813-cb2761fd3b9b))
 
 
   
    * Date Dimension
      
-    ![DDL Date Dim](![DIM_DATE](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/34cf3adb-9c75-4654-a1cc-3a22c4881f94))
+    ![DIM_DATE](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/34cf3adb-9c75-4654-a1cc-3a22c4881f94))
 
    * Fact Table
      
@@ -68,22 +68,22 @@ To explore and replicate the project, follow these steps:
 
    * Customer Dimension
    
-    ![ETL Customer Dim](![ETL_Dim_Customer](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/fcd294ad-3a9c-4c01-93d1-1e4d281bf4fb))
+    ![ETL_Dim_Customer](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/fcd294ad-3a9c-4c01-93d1-1e4d281bf4fb))
 
 
    * Book Dimension
    
-    ![ETL Book Dim](![ETL_Dim_Book](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/7f4bf0ef-c240-4897-b36c-8e468e1116cc))
+   ![ETL_Dim_Book](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/7f4bf0ef-c240-4897-b36c-8e468e1116cc))
 
 
    * Order Dimension
    
-    ![ETL Shipping Dim](![ETL_Dim_Order](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/d6e46b85-760f-4599-a2ff-96c4862bafc3))
+    ![ETL_Dim_Order](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/d6e46b85-760f-4599-a2ff-96c4862bafc3))
 
 
    * Fact Table Full Load
    
-    ![ETL Fact Table Full Load](![FACT_TABLE_ETL_DATA_FLOW](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/4094ac38-4dfc-422e-babb-604f3b599a53))
+    ![FACT_TABLE_ETL_DATA_FLOW](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/4094ac38-4dfc-422e-babb-604f3b599a53))
 
 
 ## Analysis Phase
@@ -91,8 +91,8 @@ To explore the analysis phase, refer to the [Analysis folder](/Analysis).
 
 This project harnesses the power of SQL Server Analysis Services (SSAS) for advanced data modeling and analysis. In particular, we've employed the Tabular mode of OLAP (Online Analytical Processing) to create efficient data models that cater to our analytical needs.
 
-- **Cube Scema:**    ![SSAS OLAP](![SSAS_CUBE](![CUBE_SCHEMA](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/80c98d0f-daac-4a96-80d7-78884bdff3c1))
+- **Cube Scema:**   ![SSAS_CUBE](![CUBE_SCHEMA](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/80c98d0f-daac-4a96-80d7-78884bdff3c1))
 
 
-    ![SSAS OLAP](![SSAS_CUBE](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/dc6b3238-297e-4a82-942c-9ce0e6da81b9))
+    ![SSAS_CUBE](https://github.com/Ahmed-Eladl/Gravity_Books_Sales_Project/assets/88304019/dc6b3238-297e-4a82-942c-9ce0e6da81b9))
 
